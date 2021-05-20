@@ -1,5 +1,6 @@
 ![Realm](./images/logo.png)
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/library/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.realm.kotlin/library/badge.svg)
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://github.com/realm/realm-kotlin/blob/master/LICENSE)
 
 Realm is a mobile database that runs directly inside phones, tablets or wearables.
